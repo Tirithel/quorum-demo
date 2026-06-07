@@ -1,6 +1,6 @@
 def greet(name="World"):
     """Return a friendly greeting."""
-    return f"Hello, {name}! Welcome to the Quorum Demo Sandbox. 👋"
+    return f"Hello, {name}! Welcome to the Quorum Demo Sandbox."
 
 
 def main():
